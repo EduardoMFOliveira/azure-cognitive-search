@@ -1,0 +1,17 @@
+{
+  "name": "azure-cognitive-search-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/identity": "^4.8.0",
+    "@azure/search-documents": "^12.1.0",
+    "dotenv": "^16.4.7"
+  }
+}
